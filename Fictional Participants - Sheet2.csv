@@ -1,0 +1,7 @@
+AGE,%,MARITAL STATUS,%,RACE,%,SEX,%,EDUCATION,%,INCOME,%,MENTAL HEALTH,%,POLITICAL AFFILIATION,%
+15 - 19,0.243,never married,0.335,White,0.609,male,0.496,high school diploma,0.365,<35k,0.232,mental health problems or high neuroticism,0.3,Democratic,0.3
+20 - 24,0.25,married,0.475,Black,0.122,female,0.504,some college but no degree,0.191,35k - 50k,0.107,no mental health problems or neuroticism,0.7,Republican,0.3
+25 - 29,0.246,separated,0.02,Asian,0.059,,,bachelor's degree,0.216,50k - 75k,0.162,,,Neither Democratic nor Republican,0.4
+30 - 34,0.261,widowed,0.11,Hispanic,0.191,,,associate's degree,0.088,75k - 100k,0.128,,,,
+,,divorced,0.06,Other race,0.019,,,graduate or professional degree,0.14,100k - 150k,0.169,,,,
+,,,,,,,,,,>150k,0.202,,,,
